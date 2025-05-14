@@ -6,7 +6,7 @@ A tool to automatically extract agent information from codebases.
 
 ```bash
 # Clone repository
-git clone [https://github.com/pype-ai/agensight_mcpserver.git](https://github.com/pype-ai/agensight_mcpserver.git)
+git clone https://github.com/pype-ai/agensight_mcpserver.git
 cd agensight_mcpserver
 
 # Create virtual environment
