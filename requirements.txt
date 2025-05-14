@@ -1,0 +1,4 @@
+mcp-server>=0.1.0
+networkx>=2.6.0
+matplotlib>=3.4.0
+pathlib>=1.0.1 
